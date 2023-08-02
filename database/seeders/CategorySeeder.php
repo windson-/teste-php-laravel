@@ -13,10 +13,14 @@ class CategorySeeder extends Seeder
     public function run(): void
     {
         DB::table('categories')->insert([
-            'name' => 'Remessa Parcial'
+            'name' => 'Remessa Parcial',
+            'created_at' => now(),
+            'updated_at' => now(),
         ]);
         DB::table('categories')->insert([
-            'name' => 'Remessa'
+            'name' => 'Remessa',
+            'created_at' => now(),
+            'updated_at' => now(),
         ]);
     }
 }

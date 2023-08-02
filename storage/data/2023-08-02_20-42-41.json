@@ -1,0 +1,20 @@
+{
+    "exercicio": 2023,
+    "documentos": [
+        {
+           "categoria":  "Remessa",
+           "titulo": "Titulo 1",
+           "conteúdo": "Conteúdo 1."
+        },
+        {
+           "categoria":  "Categoria Nova",
+           "titulo": "Título categoria nova",
+           "conteúdo": "Conteúdo categoria nova."
+        },
+        {
+           "categoria":  "Categoria Nova 2",
+           "titulo": "Título categoria nova 2",
+           "conteúdo": "Conteúdo categoria nova 2."
+        }
+    ]
+}

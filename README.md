@@ -26,3 +26,15 @@ Feito isso crie uma tela com um botão simples que dispara o processamento desta
 Utilize os padrões que preferir para as tarefas.
 
 Boa sorte!
+
+---
+
+---
+
+---
+
+### Críticas:
+
+- O seeder não estava configurado para ser iniciado no DatabaseSeeder
+- O CategorySeeder não estava configurado com as datas de criação e alteração
+- Foi criada uma nova migration para registrar os jobs realizados.
